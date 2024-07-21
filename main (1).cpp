@@ -1,3 +1,9 @@
+/*
+This app is designed to educate people about mental health, 
+and also allow them to improve their mental health through various
+quizzes and activities
+@author Shreeya Sarurkar
+*/
 #include <iostream>
 #include <unistd.h>
 #include <vector>
